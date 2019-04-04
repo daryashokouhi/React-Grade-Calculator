@@ -1,0 +1,88 @@
+ul{
+  list-style-type: none;
+}
+
+h2{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.formInputs{
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 0 auto;
+
+}
+
+.formInputs input{
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.formInputs input:active, .formInputs input:focus{
+  outline: none;
+}
+
+.scriptView li{
+  display: flex;
+  border: 1px solid #999;
+  padding: 10px;
+  border-radius: 10px;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 10px;
+  justify-content: space-around;
+}
+
+.scriptView li div{
+  width: 200px;
+}
+
+.addBtn{
+  background: #990CE8;
+  color: #fff;
+  border: #990CE8 1px solid;
+  border-radius: 5px;
+}
+
+.addBtn:hover{
+  color: #990CE8;
+  background: #fff;
+}
+
+.submit{
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.submitBtn{
+  background: #0DFF81;
+  color: #fff;
+  border: #0DFF81 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.submitBtn:hover{
+  color: #0DFF81;
+  background: #fff;
+}
+
+.text-danger { 
+  color: red; 
+}
+
+h3{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.addBtn:focus, .addBtn:active, .submitBtn:focus, .submitBtn.active{
+  outline: none;
+}
