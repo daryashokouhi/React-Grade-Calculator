@@ -19,8 +19,13 @@ This tool is build on React and is deployed to Heroku.
 
 <h2>Features</h2>
 
-Calendar - Contact Form - Accordion functionality - Flip card functionality
-
+<ul>
+    <li>Input for course name, course weight and grade</li>
+    <li>HTML data validator on the inputs</li>
+    <li>JavaScript validator on the calculation</li>
+    <li>Grade printer</li>
+    <li>Grade calculator</li>
+</ul>
 
 <h2>Installation</h2>
 
