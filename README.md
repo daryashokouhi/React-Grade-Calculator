@@ -9,8 +9,12 @@ A student grade calculator that takes in values such as Course name, Course weig
 This tool is build on React and is deployed to Heroku.
 
 
+<h2>The Link</h2>
+
+<a href="https://my-grade-calculator.herokuapp.com/" target="_blank"> https://my-grade-calculator.herokuapp.com/ </a>
+
 <h2>Visuals</h2>
-<img src="https://github.com/daryashokouhi/SSD-Website/blob/master/dev/images/homepage.jpg" width="400px"/><img src="https://github.com/daryashokouhi/SSD-Website/blob/master/dev/images/desc.jpg" width="400px"/><img src="https://github.com/daryashokouhi/SSD-Website/blob/master/dev/images/contact.jpg" width="400px"/><img src="https://github.com/daryashokouhi/SSD-Website/blob/master/dev/images/instructors.jpg" width="400px"/>
+<img src="https://github.com/daryashokouhi/React-Grade-Calculator/blob/master/public/screenshot1.png" width="400px"/><img src="https://github.com/daryashokouhi/React-Grade-Calculator/blob/master/public/screenshot2.png" width="400px"/><img src="https://github.com/daryashokouhi/React-Grade-Calculator/blob/master/public/screenshot3.png" width="400px"/><img src="https://github.com/daryashokouhi/React-Grade-Calculator/blob/master/public/screenshot4.png" width="400px"/>
 
 
 <h2>Features</h2>
