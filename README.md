@@ -29,8 +29,7 @@ Calendar - Contact Form - Accordion functionality - Flip card functionality
     3. Navigate to the project folder
     4. Run this command on your terminal:  npm install
     5. Run this command on your terminal:  npm start
-    6. Run the command:  gulp
-    7. The project will automatically start on your localhost
+    6. The project will automatically start on your localhost
 
 
 <h2>Roadmap</h2>
